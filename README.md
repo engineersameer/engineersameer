@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Sameer Tariq
 
-### 🐍 Python | Django | Django REST Framework | TypeScript
+### Python | Django | Django REST Framework | MERN | TypeScript
 
-Backend-focused developer passionate about building **robust web applications, REST APIs, and practical software systems**.
+Backend-focused developer who enjoys building **web applications, APIs, and practical software solutions**.
 
-I work primarily with **Python, Django, and Django REST Framework**, with experience building backend functionality, APIs, database-driven applications, authentication systems, and tested software.
-
-I also work with **TypeScript** for building strongly typed applications and software systems.
+I work across **Python/Django and the MERN stack**, with TypeScript as part of my development workflow.
 
 ---
 
@@ -18,132 +16,38 @@ I also work with **TypeScript** for building strongly typed applications and sof
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Backend
+### Frameworks & Technologies
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Database
+### Database & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Tools & Workflow
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 💻 What I Build
+## 💻 What I Work With
 
-### 🌐 Django & REST APIs
+I build and work with modern web technologies across both **Python and JavaScript/TypeScript ecosystems**.
 
-I build backend applications using **Django and Django REST Framework**, including:
+My main areas include:
 
-* RESTful APIs
-* Database-driven web applications
-* Authentication & authorization
-* JWT-based authentication
-* API permissions
-* Serialization & validation
-* Django ORM
-* APIView, Generic Views & ViewSets
-* Routers and API architecture
-* Automated testing
-
-### 🟦 TypeScript Applications
-
-I also build strongly typed applications with **TypeScript**, focusing on:
-
-* Object-oriented design
-* Generic programming
-* Domain-driven application logic
-* Data persistence
-* Type-safe architecture
-* Clean and maintainable code
-
----
-
-## 🚀 Featured Project
-
-### 🏦 Banking Management System
-
-A console-based **Banking Management System built with TypeScript**, designed around strongly typed domain logic and persistent data storage.
-
-**Tech:** TypeScript • Node.js • JSON • Generics • ESM
-
-#### Highlights
-
-* Customer and banking domain management
-* Strongly typed domain models
-* Generic file storage
-* JSON-based persistence
-* Reusable `FileStorage<T>` abstraction
-* Separation of domain logic and runtime I/O
-* Strict TypeScript configuration
-
----
-
-## 🧠 Engineering Approach
-
-I focus on understanding **how software works**, not simply using frameworks.
-
-My approach is centered around:
-
-```text
-Understand the problem
-        ↓
-Design the solution
-        ↓
-Understand the underlying mechanism
-        ↓
-Write clean, maintainable code
-        ↓
-Test the implementation
-        ↓
-Improve and refine
-```
-
-I'm particularly interested in **backend architecture, request/response flow, API design, database interaction, authentication, and writing maintainable software**.
-
----
-
-## ⚙️ Backend Architecture
-
-A simplified view of the systems I work with:
-
-```text
-Client
-   │
-   ▼
-HTTP Request
-   │
-   ▼
-URL Routing
-   │
-   ▼
-Django / DRF
-   │
-   ├── Authentication
-   ├── Permissions
-   ├── Views / ViewSets
-   ├── Serializers
-   │
-   ▼
-Django ORM
-   │
-   ▼
-Database
-   │
-   ▼
-HTTP Response
-   │
-   ▼
-Client
-```
+* **Django & Django REST Framework**
+* **MERN Stack**
+* **TypeScript**
+* **REST APIs**
+* **Database-driven applications**
+* **Authentication & Authorization**
+* **Backend development**
+* **Full-stack web development**
 
 ---
 
@@ -172,52 +76,16 @@ Client
 
 ---
 
-## 📌 Areas of Expertise
-
-```text
-Python
-├── Django
-│   ├── Django ORM
-│   ├── Views & CBVs
-│   ├── Authentication
-│   ├── Authorization
-│   ├── Middleware
-│   ├── Testing
-│   └── Application Architecture
-│
-└── Django REST Framework
-    ├── REST APIs
-    ├── Serializers
-    ├── APIView
-    ├── Generic Views
-    ├── ViewSets
-    ├── Routers
-    ├── Permissions
-    ├── Authentication
-    └── API Testing
-
-TypeScript
-├── Object-Oriented Programming
-├── Generics
-├── Domain Logic
-├── File Persistence
-└── Type-Safe Architecture
-```
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>🐍 Python • Django • DRF • TypeScript</b>
+  <b>Python • Django • DRF • MERN • TypeScript</b>
 </p>
