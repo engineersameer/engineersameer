@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sameer Tariq
+# 👋 I'm Sameer Tariq
 
 ### Python | Django | Django REST Framework | MERN | TypeScript
 
